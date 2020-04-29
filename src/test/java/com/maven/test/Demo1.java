@@ -8,6 +8,7 @@ public class Demo1 {
 //Hi this is BHarat Kumar chari
 //	panuganti
 //	panuganti bharat kumar chari
+//	this is maven test demo
 	@Test
 	public void sum() {
 		System.out.println("SUM");
